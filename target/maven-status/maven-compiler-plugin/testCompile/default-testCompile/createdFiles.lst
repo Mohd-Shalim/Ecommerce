@@ -1,0 +1,6 @@
+com\ecommerce\test\IndexPageTest.class
+com\ecommerce\test\SearchResultPageTest.class
+com\ecommerce\test\EndToEnd.class
+com\ecommerce\test\CheckOutPageTest.class
+com\ecommerce\test\LoginPageTest.class
+com\ecommerce\test\RegistrationPageTest.class

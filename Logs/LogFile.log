@@ -1,0 +1,496 @@
+2023-01-17 16:54:34.931  - Test Class  :class java.lang.String
+2023-01-17 16:54:35.614  - Parsing relationship: /xl/_rels/workbook.xml.rels
+2023-01-17 16:54:35.625  - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2023-01-17 16:54:35.648  - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2023-01-17 16:54:35.680  - Parsing relationship: /_rels/.rels
+2023-01-17 16:54:36.095  - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2023-01-17 16:54:36.101  - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2023-01-17 16:54:36.103  - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2023-01-17 16:54:36.105  - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2023-01-17 16:54:36.107  - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2023-01-17 16:54:36.109  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2023-01-17 16:54:36.138  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2023-01-17 16:54:36.140  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2023-01-17 16:54:36.150  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2023-01-17 16:54:36.157  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2023-01-17 16:54:36.161  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2023-01-17 16:54:36.163  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2023-01-17 16:54:36.167  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2023-01-17 16:54:36.169  - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2023-01-17 16:54:36.281  - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2023-01-17 16:54:36.284  - Resolving type for handle themefd26doctype
+2023-01-17 16:54:36.392  - Resolving type for handle stylesheet5d8bdoctype
+2023-01-17 16:54:36.409  - Resolving type for handle ctstylesheet4257type
+2023-01-17 16:54:36.419  - Resolving type for handle ctfonts6623type
+2023-01-17 16:54:36.427  - Resolving type for handle ctfont14d8type
+2023-01-17 16:54:36.437  - Resolving type for handle ctfills2c6ftype
+2023-01-17 16:54:36.443  - Resolving type for handle ctfill550ctype
+2023-01-17 16:54:36.448  - Resolving type for handle ctborders0d66type
+2023-01-17 16:54:36.455  - Resolving type for handle ctborderf935type
+2023-01-17 16:54:36.463  - Resolving type for handle ctcellxfs1322type
+2023-01-17 16:54:36.469  - Resolving type for handle ctxf97f7type
+2023-01-17 16:54:36.476  - Resolving type for handle ctcellstylexfsa81ftype
+2023-01-17 16:54:36.483  - Resolving type for handle ctdxfsb26atype
+2023-01-17 16:54:36.489  - Resolving type for handle cttablestyles872ftype
+2023-01-17 16:54:36.498  - Resolving type for handle sstf81fdoctype
+2023-01-17 16:54:36.506  - Resolving type for handle ctsst44f3type
+2023-01-17 16:54:36.525  - Resolving type for handle ctrsta472type
+2023-01-17 16:54:36.559  - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-01-17 16:54:36.562  - Resolving type for handle workbookec17doctype
+2023-01-17 16:54:36.572  - Resolving type for handle ctworkbook83c3type
+2023-01-17 16:54:36.582  - Resolving type for handle ctsheets49fdtype
+2023-01-17 16:54:36.587  - Resolving type for handle ctsheet4dbetype
+2023-01-17 16:54:36.593  - Resolving type for handle strelationshipid1e94type
+2023-01-17 16:54:36.598  - Resolving type for handle worksheetf539doctype
+2023-01-17 16:54:36.608  - Resolving type for handle ctworksheet530dtype
+2023-01-17 16:54:36.620  - Resolving type for handle ctsheetdata8408type
+2023-01-17 16:54:36.626  - Resolving type for handle ctrowdd39type
+2023-01-17 16:54:36.638  - Resolving type for handle ctcell842btype
+2023-01-17 16:54:36.651  - Resolving type for handle stcellrefe4e0type
+2023-01-17 16:54:36.665  - Resolving type for handle ctcols627ctype
+2023-01-17 16:54:36.679  - Resolving type for handle cthyperlinks6416type
+2023-01-17 16:54:36.684  - Resolving type for handle cthyperlink0c85type
+2023-01-17 16:54:36.707  - Resolving type for handle ctcola95ftype
+2023-01-17 16:54:36.737  - Resolving type for handle stxstringf179type
+2023-01-17 16:54:36.746  - Resolving type for handle stcelltypebf95type
+2023-01-17 16:54:37.679  - Using Log4J2 as the default logging framework
+2023-01-17 16:54:37.689  - -Dio.netty.leakDetection.level: simple
+2023-01-17 16:54:37.690  - -Dio.netty.leakDetection.targetRecords: 4
+2023-01-17 16:54:37.698  - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5399f6c5
+2023-01-17 16:54:37.733  - -Dio.netty.noUnsafe: false
+2023-01-17 16:54:37.733  - Java version: 17
+2023-01-17 16:54:37.735  - sun.misc.Unsafe.theUnsafe: available
+2023-01-17 16:54:37.737  - sun.misc.Unsafe.copyMemory: available
+2023-01-17 16:54:37.738  - sun.misc.Unsafe.storeFence: available
+2023-01-17 16:54:37.740  - java.nio.Buffer.address: available
+2023-01-17 16:54:37.742  - direct buffer constructor: unavailable
+java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
+	at io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:288) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:282) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) ~[async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:107) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:85) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:80) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:35) ~[selenium-chromium-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:94) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:82) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:50) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at com.ecommerce.base.Base.setUp(Base.java:62) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2023-01-17 16:54:37.755  - java.nio.Bits.unaligned: available, true
+2023-01-17 16:54:37.757  - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @71bc1ae4
+	at jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:560) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0$7.run(PlatformDependent0.java:410) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:401) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) ~[async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:107) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:85) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:80) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:35) ~[selenium-chromium-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:94) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:82) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:50) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at com.ecommerce.base.Base.setUp(Base.java:62) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2023-01-17 16:54:37.761  - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2023-01-17 16:54:37.761  - sun.misc.Unsafe: available
+2023-01-17 16:54:37.763  - maxDirectMemory: 1023410176 bytes (maybe)
+2023-01-17 16:54:37.763  - -Dio.netty.tmpdir: C:\Users\Admin\AppData\Local\Temp (java.io.tmpdir)
+2023-01-17 16:54:37.764  - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-01-17 16:54:37.765  - Platform: Windows
+2023-01-17 16:54:37.766  - -Dio.netty.maxDirectMemory: -1 bytes
+2023-01-17 16:54:37.767  - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-01-17 16:54:37.769  - java.nio.ByteBuffer.cleaner(): available
+2023-01-17 16:54:37.770  - -Dio.netty.noPreferDirect: false
+2023-01-17 16:54:37.785  - org.jctools-core.MpscChunkedArrayQueue: available
+2023-01-17 16:54:37.825  - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-01-17 16:54:37.825  - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-01-17 16:54:37.923  - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2023-01-17 16:54:37.924  - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2023-01-17 16:54:37.978  - -Dio.netty.eventLoopThreads: 8
+2023-01-17 16:54:37.997  - -Dio.netty.noKeySetOptimization: false
+2023-01-17 16:54:37.998  - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-01-17 16:54:38.021  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@32f96bba
+2023-01-17 16:54:38.025  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@72eb6200
+2023-01-17 16:54:38.028  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@76ececd
+2023-01-17 16:54:38.032  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7affc159
+2023-01-17 16:54:38.034  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1682c08c
+2023-01-17 16:54:38.037  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3fd05b3e
+2023-01-17 16:54:38.040  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4eb9f2af
+2023-01-17 16:54:38.043  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4a481728
+2023-01-17 16:54:38.081  - -Dio.netty.allocator.numHeapArenas: 8
+2023-01-17 16:54:38.081  - -Dio.netty.allocator.numDirectArenas: 8
+2023-01-17 16:54:38.082  - -Dio.netty.allocator.pageSize: 8192
+2023-01-17 16:54:38.082  - -Dio.netty.allocator.maxOrder: 9
+2023-01-17 16:54:38.082  - -Dio.netty.allocator.chunkSize: 4194304
+2023-01-17 16:54:38.082  - -Dio.netty.allocator.smallCacheSize: 256
+2023-01-17 16:54:38.082  - -Dio.netty.allocator.normalCacheSize: 64
+2023-01-17 16:54:38.083  - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-01-17 16:54:38.083  - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-01-17 16:54:38.083  - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-01-17 16:54:38.083  - -Dio.netty.allocator.useCacheForAllThreads: false
+2023-01-17 16:54:38.083  - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-01-17 16:54:38.103  - -Dio.netty.allocator.type: pooled
+2023-01-17 16:54:38.104  - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-01-17 16:54:38.105  - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-01-17 16:54:38.655  - -Dio.netty.processId: 11124 (auto-detected)
+2023-01-17 16:54:38.660  - -Djava.net.preferIPv4Stack: false
+2023-01-17 16:54:38.660  - -Djava.net.preferIPv6Addresses: false
+2023-01-17 16:54:38.673  - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-01-17 16:54:38.676  - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-01-17 16:54:38.712  - -Dio.netty.machineId: cc:6b:1e:ff:fe:1b:78:79 (auto-detected)
+2023-01-17 16:54:38.823  - -Dio.netty.buffer.checkAccessible: true
+2023-01-17 16:54:38.824  - -Dio.netty.buffer.checkBounds: true
+2023-01-17 16:54:38.826  - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@62097031
+2023-01-17 16:54:38.866  - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-01-17 16:54:38.866  - -Dio.netty.recycler.ratio: 8
+2023-01-17 16:54:38.867  - -Dio.netty.recycler.chunkSize: 32
+2023-01-17 16:54:38.867  - -Dio.netty.recycler.blocking: false
+2023-01-17 16:54:40.915  - brotli4j not in the classpath; Brotli support will be unavailable.
+2023-01-17 16:54:41.157  - -Dio.netty.initialSeedUniquifier: 0xe3550484a4cd4f53
+2023-01-17 16:54:43.955  - onTestStart
+2023-01-17 16:54:48.810  - Encoding WebSocket Frame opCode=8 length=26
+2023-01-17 16:54:52.463  - onTestStart
+2023-01-17 16:54:55.172  - Encoding WebSocket Frame opCode=8 length=26
+2023-01-17 16:54:57.494  - onTestStart
+2023-01-17 16:54:59.481  - Encoding WebSocket Frame opCode=8 length=26
+2023-01-17 17:32:11.939  - Test Class  :class java.lang.String
+2023-01-17 17:32:12.616  - Parsing relationship: /xl/_rels/workbook.xml.rels
+2023-01-17 17:32:12.640  - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2023-01-17 17:32:12.650  - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2023-01-17 17:32:12.658  - Parsing relationship: /_rels/.rels
+2023-01-17 17:32:13.110  - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2023-01-17 17:32:13.117  - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2023-01-17 17:32:13.119  - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2023-01-17 17:32:13.121  - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2023-01-17 17:32:13.124  - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2023-01-17 17:32:13.126  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2023-01-17 17:32:13.154  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2023-01-17 17:32:13.161  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2023-01-17 17:32:13.179  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2023-01-17 17:32:13.189  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2023-01-17 17:32:13.197  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2023-01-17 17:32:13.200  - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2023-01-17 17:32:13.203  - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2023-01-17 17:32:13.208  - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2023-01-17 17:32:13.312  - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2023-01-17 17:32:13.315  - Resolving type for handle themefd26doctype
+2023-01-17 17:32:13.413  - Resolving type for handle stylesheet5d8bdoctype
+2023-01-17 17:32:13.431  - Resolving type for handle ctstylesheet4257type
+2023-01-17 17:32:13.442  - Resolving type for handle ctfonts6623type
+2023-01-17 17:32:13.449  - Resolving type for handle ctfont14d8type
+2023-01-17 17:32:13.458  - Resolving type for handle ctfills2c6ftype
+2023-01-17 17:32:13.463  - Resolving type for handle ctfill550ctype
+2023-01-17 17:32:13.467  - Resolving type for handle ctborders0d66type
+2023-01-17 17:32:13.473  - Resolving type for handle ctborderf935type
+2023-01-17 17:32:13.479  - Resolving type for handle ctcellxfs1322type
+2023-01-17 17:32:13.485  - Resolving type for handle ctxf97f7type
+2023-01-17 17:32:13.491  - Resolving type for handle ctcellstylexfsa81ftype
+2023-01-17 17:32:13.495  - Resolving type for handle ctdxfsb26atype
+2023-01-17 17:32:13.500  - Resolving type for handle cttablestyles872ftype
+2023-01-17 17:32:13.508  - Resolving type for handle sstf81fdoctype
+2023-01-17 17:32:13.517  - Resolving type for handle ctsst44f3type
+2023-01-17 17:32:13.536  - Resolving type for handle ctrsta472type
+2023-01-17 17:32:13.566  - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-01-17 17:32:13.569  - Resolving type for handle workbookec17doctype
+2023-01-17 17:32:13.577  - Resolving type for handle ctworkbook83c3type
+2023-01-17 17:32:13.585  - Resolving type for handle ctsheets49fdtype
+2023-01-17 17:32:13.591  - Resolving type for handle ctsheet4dbetype
+2023-01-17 17:32:13.596  - Resolving type for handle strelationshipid1e94type
+2023-01-17 17:32:13.601  - Resolving type for handle worksheetf539doctype
+2023-01-17 17:32:13.611  - Resolving type for handle ctworksheet530dtype
+2023-01-17 17:32:13.623  - Resolving type for handle ctsheetdata8408type
+2023-01-17 17:32:13.628  - Resolving type for handle ctrowdd39type
+2023-01-17 17:32:13.637  - Resolving type for handle ctcell842btype
+2023-01-17 17:32:13.651  - Resolving type for handle stcellrefe4e0type
+2023-01-17 17:32:13.667  - Resolving type for handle ctcols627ctype
+2023-01-17 17:32:13.684  - Resolving type for handle cthyperlinks6416type
+2023-01-17 17:32:13.696  - Resolving type for handle cthyperlink0c85type
+2023-01-17 17:32:13.730  - Resolving type for handle ctcola95ftype
+2023-01-17 17:32:13.770  - Resolving type for handle stxstringf179type
+2023-01-17 17:32:13.780  - Resolving type for handle stcelltypebf95type
+2023-01-17 17:32:15.601  - Using Log4J2 as the default logging framework
+2023-01-17 17:32:15.609  - -Dio.netty.leakDetection.level: simple
+2023-01-17 17:32:15.610  - -Dio.netty.leakDetection.targetRecords: 4
+2023-01-17 17:32:15.617  - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1835dc92
+2023-01-17 17:32:15.650  - -Dio.netty.noUnsafe: false
+2023-01-17 17:32:15.651  - Java version: 17
+2023-01-17 17:32:15.653  - sun.misc.Unsafe.theUnsafe: available
+2023-01-17 17:32:15.655  - sun.misc.Unsafe.copyMemory: available
+2023-01-17 17:32:15.658  - sun.misc.Unsafe.storeFence: available
+2023-01-17 17:32:15.660  - java.nio.Buffer.address: available
+2023-01-17 17:32:15.662  - direct buffer constructor: unavailable
+java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
+	at io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:288) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:282) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) ~[async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:107) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:85) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:80) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:35) ~[selenium-chromium-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:94) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:82) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:50) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at com.ecommerce.base.Base.setUp(Base.java:62) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2023-01-17 17:32:15.679  - java.nio.Bits.unaligned: available, true
+2023-01-17 17:32:15.683  - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @71bc1ae4
+	at jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:560) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0$7.run(PlatformDependent0.java:410) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:401) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) ~[netty-common-4.1.84.Final.jar:4.1.84.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) ~[async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:107) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:85) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:80) ~[selenium-remote-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:35) ~[selenium-chromium-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:94) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:82) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:50) ~[selenium-chrome-driver-4.7.2.jar:?]
+	at com.ecommerce.base.Base.setUp(Base.java:62) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2023-01-17 17:32:15.691  - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2023-01-17 17:32:15.691  - sun.misc.Unsafe: available
+2023-01-17 17:32:15.693  - maxDirectMemory: 1023410176 bytes (maybe)
+2023-01-17 17:32:15.694  - -Dio.netty.tmpdir: C:\Users\Admin\AppData\Local\Temp (java.io.tmpdir)
+2023-01-17 17:32:15.698  - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-01-17 17:32:15.699  - Platform: Windows
+2023-01-17 17:32:15.701  - -Dio.netty.maxDirectMemory: -1 bytes
+2023-01-17 17:32:15.702  - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-01-17 17:32:15.708  - java.nio.ByteBuffer.cleaner(): available
+2023-01-17 17:32:15.709  - -Dio.netty.noPreferDirect: false
+2023-01-17 17:32:15.727  - org.jctools-core.MpscChunkedArrayQueue: available
+2023-01-17 17:32:15.759  - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-01-17 17:32:15.759  - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-01-17 17:32:15.783  - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2023-01-17 17:32:15.783  - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2023-01-17 17:32:15.839  - -Dio.netty.eventLoopThreads: 8
+2023-01-17 17:32:15.857  - -Dio.netty.noKeySetOptimization: false
+2023-01-17 17:32:15.858  - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-01-17 17:32:15.882  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7bc58891
+2023-01-17 17:32:15.886  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2668c286
+2023-01-17 17:32:15.889  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7f353a0f
+2023-01-17 17:32:15.892  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7ea2412c
+2023-01-17 17:32:15.896  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1c93b51e
+2023-01-17 17:32:15.899  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7c0f28f8
+2023-01-17 17:32:15.902  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2abc8034
+2023-01-17 17:32:15.905  - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@467b0f6e
+2023-01-17 17:32:15.940  - -Dio.netty.allocator.numHeapArenas: 8
+2023-01-17 17:32:15.941  - -Dio.netty.allocator.numDirectArenas: 8
+2023-01-17 17:32:15.941  - -Dio.netty.allocator.pageSize: 8192
+2023-01-17 17:32:15.942  - -Dio.netty.allocator.maxOrder: 9
+2023-01-17 17:32:15.943  - -Dio.netty.allocator.chunkSize: 4194304
+2023-01-17 17:32:15.943  - -Dio.netty.allocator.smallCacheSize: 256
+2023-01-17 17:32:15.943  - -Dio.netty.allocator.normalCacheSize: 64
+2023-01-17 17:32:15.943  - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-01-17 17:32:15.944  - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-01-17 17:32:15.944  - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-01-17 17:32:15.944  - -Dio.netty.allocator.useCacheForAllThreads: false
+2023-01-17 17:32:15.944  - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-01-17 17:32:15.965  - -Dio.netty.allocator.type: pooled
+2023-01-17 17:32:15.966  - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-01-17 17:32:15.966  - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-01-17 17:32:16.456  - -Dio.netty.processId: 1328 (auto-detected)
+2023-01-17 17:32:16.460  - -Djava.net.preferIPv4Stack: false
+2023-01-17 17:32:16.461  - -Djava.net.preferIPv6Addresses: false
+2023-01-17 17:32:16.475  - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-01-17 17:32:16.477  - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-01-17 17:32:16.508  - -Dio.netty.machineId: cc:6b:1e:ff:fe:1b:78:79 (auto-detected)
+2023-01-17 17:32:16.595  - -Dio.netty.buffer.checkAccessible: true
+2023-01-17 17:32:16.596  - -Dio.netty.buffer.checkBounds: true
+2023-01-17 17:32:16.597  - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2a8aa2bb
+2023-01-17 17:32:16.637  - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-01-17 17:32:16.637  - -Dio.netty.recycler.ratio: 8
+2023-01-17 17:32:16.638  - -Dio.netty.recycler.chunkSize: 32
+2023-01-17 17:32:16.638  - -Dio.netty.recycler.blocking: false
+2023-01-17 17:32:18.049  - brotli4j not in the classpath; Brotli support will be unavailable.
+2023-01-17 17:32:18.225  - -Dio.netty.initialSeedUniquifier: 0x7b7f9dcd6a1ae609
+2023-01-17 17:32:20.210  - onTestStart
+2023-01-17 17:32:22.203  - Encoding WebSocket Frame opCode=8 length=26
+2023-01-17 17:32:24.850  - onTestStart
+2023-01-17 17:32:26.633  - Encoding WebSocket Frame opCode=8 length=26
+2023-01-17 17:32:30.315  - onTestStart
+2023-01-17 17:32:32.443  - Encoding WebSocket Frame opCode=8 length=26
