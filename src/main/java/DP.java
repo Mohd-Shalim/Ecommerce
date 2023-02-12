@@ -1,6 +1,6 @@
+import java.util.Scanner;
+
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Optional;
-import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class DP
@@ -10,8 +10,16 @@ public class DP
 	 return new Object[][] {{"First-Value","val1"}, {"Second-Value", "val2"}};
      }
 	
-    @Test (dataProvider = "data-provider")
+    @Test (dataProvider = "data-provider", priority=3)
     public void myTest (String x,String y) {
         System.out.println("First Passed Parameter Is : " + x+",   Second Passed Parameter Is : "+y);
+    }
+    @Test(priority=4)
+    public void keyScanner()
+    {
+    	try (Scanner sc = new Scanner(System.in)) {
+			String s=sc.next();
+			System.out.println(s);
+		}
     }
 }

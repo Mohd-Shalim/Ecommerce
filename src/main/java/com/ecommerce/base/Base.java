@@ -43,9 +43,9 @@ public class Base {
 		ExtentManager.setExtent();
 	}
 
-	@Parameters("browser")
+	
 	@BeforeMethod
-	public void setUp(String browser)
+	public void setUp()
 	{
 		prop=new Properties();
 
@@ -62,7 +62,7 @@ public class Base {
 			e.printStackTrace();
 
 		}
-		switch (browser.toLowerCase())
+		switch (prop.getProperty("browser").toLowerCase())
 		{
 		case "chrome":
 		{
@@ -73,7 +73,7 @@ public class Base {
 			//driver.manage().window().maximize();
 			getDriver().get(prop.getProperty("url"));
 			break;
-		}
+					}
 		case "firefox":
 		{
 			WebDriverManager.firefoxdriver().setup();

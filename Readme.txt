@@ -1,1 +1,1 @@
-# Ecommerce Hybrid Framework demo.nopCommerce.com
+# Ecommerce Hybrid Framework for demo.nopCommerce.com
